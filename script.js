@@ -1,3 +1,6 @@
+console.log('cualquier string');
+//imprimiendo mensaje 
+
 let pronoun = ["the", "our", "your"];
 let adj = ["great", "big", "nice"];
 let noun = ["jogger", "racoon", "bigger"];
