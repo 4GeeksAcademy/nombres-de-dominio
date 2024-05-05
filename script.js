@@ -1,4 +1,4 @@
-console.log('cualquier string');
+//console.log('cualquier string');
 //imprimiendo mensaje 
 
 let pronoun = ["the", "our", "your"];
